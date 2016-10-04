@@ -1,4 +1,4 @@
-# Homework #1
+# Homework #3
 
 ##### by Xuenan Xu GWID G26980825
 &nbsp;
@@ -70,4 +70,6 @@ int main(void) {
 ```
 I wrote the program in a typical C program, like shown above. The result shall be `5 * 5 + 10 * 10 = 125`. The definition of `int (*ptrFunc1)(int, int) = func1;` defined a pointer named `ptrFunc1` for `func1`, the pointer is like a alias and works exactly the same as its source.
 
+&nbsp;
 > Written with [Atom](https://atom.io/).
+
