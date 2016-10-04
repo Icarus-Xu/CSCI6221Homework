@@ -97,4 +97,6 @@ case #1
 case #2
 default case
 ```
+
+&nbsp;
 > Written with [Atom](https://atom.io/).
