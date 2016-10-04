@@ -158,3 +158,6 @@ Draw a triangle.
 Draw a rectangle.
 ```
 It's vividly shown in the result that the abstract `draw()` function in `Polygon` is called by different subclasses of `Polygon`, that is the usage of polymorphism, with the same parent class, call the same function, reach different ends in subclasses.
+
+&nbsp;
+> Written with [Atom](https://atom.io/).
