@@ -35,3 +35,6 @@ The algorithm accurately implemented the workflow we defined, and it works for b
 (reverse-list `(A (B C (D E)) F))
 => (F ((E D) C B) A)
 ```
+
+&nbsp;
+> Written with [Atom](https://atom.io/).
